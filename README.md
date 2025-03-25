@@ -1,2 +1,2 @@
-# logistic-hotel
-sistema de logistica para hotel 
+# inhomework
+sistema de anotação de tarefas
